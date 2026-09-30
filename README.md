@@ -7,7 +7,7 @@
 <p>Un jeu d'arcade néon dans lequel chaque seconde compte.</p>
 
 <p>
-  <a href="https://twitch-antho.github.io/Application-Test/">
+  <a href="https://twitch-antho.github.io/Neon-Dodge-Appli/">
     <img src="https://img.shields.io/badge/▶_JOUER_EN_LIGNE-45E6D0?style=for-the-badge&logoColor=07101f" alt="Jouer en ligne" />
   </a>
 </p>
@@ -41,7 +41,7 @@ Traverse la pluie de météores, améliore ton niveau et deviens le pilote le pl
 
 ## ▶ Comment jouer
 
-1. Lance le jeu depuis la [version en ligne](https://twitch-antho.github.io/Application-Test/).
+1. Lance le jeu depuis la [version en ligne](https://twitch-antho.github.io/Neon-Dodge-Appli/).
 2. Choisis ton niveau de difficulté.
 3. Déplace ton vaisseau pour éviter les météores rouges.
 4. Survis le plus longtemps possible et améliore ton score.
@@ -89,7 +89,7 @@ Application-Test/
 
 ### Prêt à jouer ?
 
-[**LANCER LA PARTIE →**](https://twitch-antho.github.io/Application-Test/)
+[**LANCER LA PARTIE →**](https://twitch-antho.github.io/Neon-Dodge-Appli/)
 
 </div>
 
